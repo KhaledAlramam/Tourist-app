@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tourist App</string>
+    <string name="beaches">Beaches</string>
+    <string name="places">Historical places</string>
+    <string name="restaurents">Restaurents</string>
+    <string name="events">Events</string>
+
+    <string name="marsaN">Marsa Nayzak</string>
+    <string name="marsaNDesc">This natural pool beach was formed after a meteor hit planet earth, it is located 14 km south of Marsa Alam.</string>
+    <string name="rasB">Ras Banas</string>
+    <string name="rasBDesc">A Red Sea peninsula located near the Egyptian-Sudanese borders, offering a delightful adventure to divers, and a pleasant experience for swimmers who want to enjoy watching coral reefs and colorful fish through its clear waters without going the extra mile, hence “diving or snorkeling”.</string>
+    <string name="sunken">Sunken City</string>
+    <string name="sunkenDesc">Mistakenly believed as a Sunken City dating back to the Pharohs’ time, however it’s not, it has been man-made some years ago, and brought lots of curious snorkelers, and divers to discover the underwater city .</string>
+    <string name="mah">El-Mahmya</string>
+    <string name="mahDesc">Located on the southern shores of Giftun Island, this is a getaway to enjoy swimming, snorkeling, stunning sunset views, a meal or a drink from the many restaurants serving seafood and Italian food as well. A paradise on earth it is.</string>
+    <string name="wadi">Wadi Qulaan</string>
+    <string name="wadiDesc">Wadi Qulaan is located inside Wadi El-Gemal Protetcted Area in Marsa Alam, which another escape from touristic beaches, and a place to enjoy unspoiled nature. Apart from swimming, those seeking adventure can get around the protected area to enjoy hiking and bird watching.</string>
+
+    <string name="pyramids">The Pyramids of Giza</string>
+    <string name="saqqara">The Step Pyramid</string>
+    <string name="karnak">Temple of Karnak</string>
+    <string name="luxorTemp">Luxor Temple</string>
+    <string name="hatsh">Temple of  Hatshepsut</string>
+    <string name="pyramidsDesc">The Pyramids are situated at Giza just outside Cairo and is one of the engineering marvels of all time and the only remaining wonder of the ancient world.</string>
+    <string name="saqqaraDesc">The Step Pyramid at Saqqara is situated 20 km from Giza near Cairo. Built for the Pharaoh Djoser the first king of the Third Dynasty as his tomb.</string>
+    <string name="karnakDesc">The Temple of Karnak is not a single temple but a temple complex which developed over a period of 1500 years. It is one of the largest religious complexes in the world.</string>
+    <string name="luxorTempDesc">In the original temple, initiated by Amenhotep III, the entrance was at the northern end of his courtyard. The pylon which visitors are greeted with today, known as the first pylon stands 24 metres high and was added by Ramesses II.</string>
+    <string name="hatshDesc">The Temple of Hatshepsut was built on the West bank of the Nile near the Valley of the Kings at Luxor. It was created by the architect Senmut who was also chancellor and, some suggest, the lover of Queen Hatshepsut (18th Dynasty).</string>
+
+
+    <string name="seq">Sequoia, Zamalek</string>
+    <string name="seqDesc">The great vibes and stunning view of this place is still unmatched anywhere else in the city. You’re basically surrounded by the Nile from all angles.</string>
+    <string name="andrea">Andrea, New Giza</string>
+    <string name="andreaDesc">This is a personal favourite of mine. It takes after the famous Marryoteya one and the food is to die for. The grilled chicken, chicken liver and Kobeba are a must try! You can get your name customized in a sand bottle.</string>
+    <string name="pico">Il Piccolo Mondo, Le Pacha 1901, Zamalek</string>
+    <string name="picoDesc">This is one of Le Pacha boat’s classics. They serve authentic Italian food the right way! The restaurant design imitates the Piazza San Carlo in Italy which makes it quite unique.</string>
+
+    <string name="date669">669 BC</string>
+    <string name="date525">525 BC</string>
+    <string name="date332">332 BC</string>
+    <string name="date31">31 AD</string>
+    <string name="date33">33</string>
+    <string name="date642">642</string>
+    <string name="desc669">Assyrians from Mesopotamia conquer and rule Egypt.</string>
+    <string name="desc525">Persian conquest.</string>
+    <string name="desc332">Alexander the Great, of ancient Macedonia, conquers Egypt, founds Alexandria. A Macedonian dynasty rules until 31 BC.</string>
+    <string name="desc31">Egypt comes under Roman rule; Queen Cleopatra commits suicide after Octavian's army defeats her forces.</string>
+    <string name="desc33">Christianity comes to Egypt, and by 4th century has largely displaced Egyptian religion.</string>
+    <string name="desc642">Arab conquest of Egypt.</string>
+
+</resources>
